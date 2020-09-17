@@ -1,0 +1,126 @@
+[
+    {
+        "nombre": "f",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$1ys6IFJptnaHZQtZ3pSCyeQhGk3WkUvgOk7KnEEce2BSxyeiG7stW"
+    },
+    {
+        "nombre": "f",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$Wo9lsXTTAFKoGBStGYS61OOJ89/YsIlDmPTyUz0SlQacwRNRDeLwK"
+    },
+    {
+        "nombre": "f",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$FVoasUmfWIpmrtvJxpTH/u7WNZsEoqAAhxuf2RC50i6enJh6/qyZq"
+    },
+    {
+        "nombre": "franco",
+        "apellido": "davol",
+        "email": "franco@hotmail.com",
+        "password": "$2b$10$qNcwtnXtY0t9uLAp9HPIxu4ExstQh3YMbXYnU9vEle8eKvhiQ/KGW"
+    },
+    {
+        "nombre": "franco",
+        "apellido": "davol",
+        "email": "franco@hotmail.com",
+        "password": "$2b$10$vzzSUOGhFHfMpU6J1.Wt.eQNaUi.h9Pdd4aONqh4eXV8B.AQQ8Hfa"
+    },
+    {
+        "nombre": "gaston ",
+        "apellido": "gonzalez",
+        "email": "gaston@hotmail.com",
+        "password": "$2b$10$M45kKoSA2r26e4yQ6WEpU.UawHTONQ4owUcviHTX8NZfgcANL8qqa"
+    },
+    {
+        "nombre": "",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$o8OKhdzCr/ilsYa0ovLNQe/G9wSE.BcSsurMIf32gd0YmfJAPjlPO"
+    },
+    {
+        "nombre": "",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$cfEEv/AmjN/I3TjytvwG9OcAcFQjRQx25PpfruGpyycgiqqFvITfO"
+    },
+    {
+        "nombre": "",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$ttpQu7wAJy/mxFeZAy3UYetPTPYEPUFVwMpN/nIbTwUfCaGkpbTa2"
+    },
+    {
+        "nombre": "f",
+        "apellido": "",
+        "email": "",
+        "password": "$2b$10$0/SU90KAPnhhCzyu1uHKyecLi801PGnoAu0C8.w.6xaBFMFcrQ7qi"
+    },
+    {
+        "nombre": "f",
+        "apellido": "",
+        "email": "",
+        "password": "$2b$10$emEqjq3JxjTmL1Gqclh0d.Gwp9ktsk4sCg0oomjk1SYl6nORbnIfe"
+    },
+    {
+        "nombre": "f",
+        "apellido": "",
+        "email": "",
+        "password": "$2b$10$FPy0RncuWMsf3ZS.mjSEEuADn4RL0nt.MbJz0rMW6y9OAi0qJIpgC"
+    },
+    {
+        "nombre": "f",
+        "apellido": "",
+        "email": "",
+        "password": "$2b$10$.x4YvkmPlCuo.yXoOQMWnucwNaWqq8phVyu.6pxw5WK0tIibewSw6"
+    },
+    {
+        "nombre": "f",
+        "apellido": "",
+        "email": "",
+        "password": "$2b$10$1bHk4PEszJL1PnizQu7.fuzGr3t3c80HMGE9ostgHGq3OLy5M0uFi"
+    },
+    {
+        "nombre": "f",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$PgDpQPZzfPlCLsF0mawnN.P3YIy8mvSph7jWReuYKlt8Xcg.kvHNu",
+        "image": "image-1592442503713.jpg"
+    },
+    "image-1592442503713.jpg",
+    {
+        "nombre": "f",
+        "apellido": "f",
+        "email": "",
+        "password": "$2b$10$gJhz6PYlVR/R9CsafAqCN.o4QMEcrjoUGW/3H3v1ScgPJhh/4VtFe",
+        "image": "image-1592442621546.jpg"
+    },
+    "image-1592442621546.jpg",
+    {
+        "nombre": "franco",
+        "apellido": "gaston",
+        "email": "franco@hotmail.com",
+        "password": "$2b$10$/59.atBcd/6AyxTw3VQa/uB8LuGPFpRPSst/jDdRJfROpZnaph3P2",
+        "image": "image-1592512028641.jpeg"
+    },
+    "image-1592512028641.jpeg",
+    {
+        "nombre": "franco",
+        "apellido": "gaston",
+        "email": "franco@hotmail.com",
+        "password": "$2b$10$G.cf/eT2/ZB84trhc1hNoetGZl9iaig/3E8HdkvlA1mf6jDUPd.G.",
+        "image": "image-1592512058384.jpeg"
+    },
+    "image-1592512058384.jpeg",
+    {
+        "nombre": "ernesto",
+        "apellido": "gimenez",
+        "email": "ernesto@hotmail.com",
+        "password": "$2b$10$jqpOnJR99.BrYjkMi5uqHOfE36T2Z1cS8jMNwC/0cWN.S81fwvRJm",
+        "image": "image-1593456280058.png"
+    },
+    "image-1593456280058.png"
+]
